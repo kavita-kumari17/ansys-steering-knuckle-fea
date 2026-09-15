@@ -1,0 +1,7 @@
+mode,frequency_Hz,description
+1,842.6,First bending
+2,1187.3,First torsion
+3,1564.9,Second bending
+4,2103.7,Lateral bending
+5,2456.1,Second torsion
+6,2894.5,Combined bending-torsion

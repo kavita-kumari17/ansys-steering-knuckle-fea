@@ -1,0 +1,28 @@
+# ANSYS / CAE solver artefacts (large / proprietary)
+*.wbpj
+*_files/
+*.mechdat
+*.mechdb
+*.rst
+*.rth
+*.db
+*.dbb
+*.err
+*.lock
+*.mntr
+
+# CAD natives
+*.stp.bak
+*.x_t.bak
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

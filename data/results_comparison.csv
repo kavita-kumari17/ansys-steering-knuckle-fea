@@ -1,0 +1,5 @@
+metric,baseline,optimized
+mass_kg,2.86,2.52
+max_von_mises_MPa,236.2,248.9
+max_deformation_mm,0.457,0.489
+factor_of_safety,1.78,1.69
